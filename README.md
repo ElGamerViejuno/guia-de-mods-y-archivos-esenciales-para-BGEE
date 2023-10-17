@@ -20,7 +20,13 @@ Baldur's Gate: Enhanced Edition (2012, Beamdog) Incluye la primera expansión "T
 
 Baldur's Gate: Siege of Dragonspear (2016, Beamdog) La polémica expansión de Beamdog para BGEE con la que nunca llegarón a ningún acuerdo con ClanDlan para ser traducida y por supuesto nunca tendría doblaje en español. Hasta hace poco tiempo tan solo existía una traducción de texto chapuzera con muchos fallos que alguién se tomo la molestia de traducir en plan "Google Translator". Recientemente yo mismo me he puesto manos a la obra para que tengamos de una vez una traducción de textos "decente" para esta expansión.
 
-## Mod Resources
+## Archivos importantes
+[url=https://drive.google.com/file/d/15P7CpPSuZPtua0pKZWpO63mZwc9dvC2I][b]Pack de voces en español para BGEE[/b][/url] Este pack de voces en español parece funcionar bien en la última version 2.6.6.0 del juego. Los archivos tienen que descomprimirse donde tengas instalado el juego, exactamente en "\lang\es_ES". Recordad que este doblaje en nuestro idioma nunca fue completo al 100% por las diversas razones anteriormente comentadas y de vez en cuando pueden encontrarse algunas voces en inglés.
+
+[url=https://www.nexusmods.com/baldursgate/mods/29][b]Akuro's Original Casting Sounds[/b][/url] Con este pack puedes volver a escuchar las antiguas voces durante el lanzamiento de conjuros de magos y clérigos utilizadas en la primera edición de Baldur's Gate (1998). Hay jugadores que prefieren jugar con estas voces porque aparte de ser las originales, como puedes comprobar en este [url=https://www.youtube.com/watch?v=i_7gzmJVxLc]video[/url], suenan más "crudas y enérgicas"  que las actuales, que realmente provienen de BG2. Curiosamente este pack de voces funciona tanto en BGEE como en BG2EE.
+
+[url=https://drive.google.com/file/d/1QwAQHdhV3Ge7t6FptNATuoT0zQoxaECG/][b]Traducción de Siege of Dragonspear al español[/b][/url] Se trata una nueva traducción no oficial para la expansión "Siege of Dragonspear" que yo mismo he realizado respetando al máximo el estilo de las anteriores traducciones de ClanDlan. Para que esta traducción pueda funcionar bien se necesita la instalación previa de un mod llamado [url=https://github.com/Argent77/A7-DlcMerger][b]DLC Merger[/b][/url]. Recomiendo darle un vistazo a esta otra guía si queréis obtener una información mucho más detallada. https://steamcommunity.com/sharedfiles/filedetails/?id=2967898683
+
 
 [Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1)
 
