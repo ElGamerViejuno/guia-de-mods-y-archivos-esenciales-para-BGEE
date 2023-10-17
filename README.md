@@ -40,7 +40,7 @@ En Steam:
 En GoG Galaxy:
 "C:\Program Files (x86)\GOG Galaxy\Games\Baldur's Gate - Enhanced Edition"
 
-Lo que si que siempre va ser [b]MUY IMPORTANTE[/b] es el orden de instalación de los mods. En la guía de Reddit anterior lo explican bastante bien, pero para despejar más las dudas puedes mirar esta web de [url=https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository]Baldurs-Gate-Install-Order-List-Repository[/url] donde podrás ver directamente los [b]Weidu.log[/b] con el orden de instalación de gente bastante experta. Conociendo estas listas te puedes asegurar de que tu instalación sea lo más perfecta posible. También aparte os voy a dejar un enlace donde podéis ver el [b]Weidu.log[/b] de mi instalación actual [aquí](https://pastebin.com/xDpb3xE9).
+Lo que si que siempre va ser [b]MUY IMPORTANTE[/b] es el orden de instalación de los mods. En la guía de Reddit anterior lo explican bastante bien, pero para despejar más las dudas puedes mirar esta web de [Baldurs-Gate-Install-Order-List-Repository](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository) donde podrás ver directamente los [b]Weidu.log[/b] con el orden de instalación de gente bastante experta. Conociendo estas listas te puedes asegurar de que tu instalación sea lo más perfecta posible. También aparte os voy a dejar un enlace donde podéis ver el [b]Weidu.log[/b] de mi instalación actual [aquí](https://pastebin.com/xDpb3xE9).
 
 ## Mods relevantes
 Los mods señalados en esta guía, son para jugadores que buscan mejorar el juego, pero a la vez respetando la experiencia original y no estan interesados en grandes megamods infumables que solo "inflan" artificialmente el juego, lo pueden volver inestable, pueden llegar a causar algún desbalanceo en la evolución de los personajes o incluso que no respeten el lore. Esta muy bien jugar con grandes instalaciones con cientos de mods o con el conocido mod "Trilogy" que fusiona BG y BG2 en un único juego, pero es posible que no busques complicarte demasiado, aparte también, quizás quieras conservar tus estadísticas y el desbloqueo de logros en tu perfil de Steam.
@@ -86,4 +86,4 @@ Por cierto, también he creado otra guía similar sobre la secuela Baldur's Gate
 https://steamcommunity.com/sharedfiles/filedetails/?id=2916669633
 Si buscas más información y conocer a otros fans del juego puedes unirte la comunidad de Discord [b][url=https://discord.gg/5r4y4PZ ]"Baldur's Gate Hispano"[/url][/b] o si también quieres consultarme cualquier cosa, a menudo me podrás encontrar en mi canal de [b][url=https://www.twitch.tv/elgamerviejuno ]Twitch[/url][/b] dándole al vicio en directo.
 
-[guía de Reddit para instalar mods](https://www.reddit.com/r/baldursgate/comments/plkft5/a_new_players_guide_to_installing_and_playing_mods/)
+[Baldurs-Gate-Install-Order-List-Repository](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository)
