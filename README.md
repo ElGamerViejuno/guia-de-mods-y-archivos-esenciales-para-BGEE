@@ -47,7 +47,7 @@ Los mods señalados en esta guía, son para jugadores que buscan mejorar el jueg
 
 En esta guía solo se recomiendan mods que incluyan traducción al español, al menos que se trate de un mod que resulte irrelevante tenerlo en nuestro idioma porque no añada o altere textos importantes. Recordad que algunos de estos mods pueden dar falsos positivos con el antivirus de Windows al descargarlos.
 
-[url=https://github.com/Sampsca/BGEE-Classic-Movies][b]BGEE Classic Movies[/b][/url] Para cambiar las feas e insípidas cinemáticas de la "Enhanced edition" por las cinemáticas originales.
+[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies) Para cambiar las feas e insípidas cinemáticas de la "Enhanced edition" por las cinemáticas originales.
 
 [url=https://github.com/Gibberlings3/BG1NPC][b]BG1 NPC Project[/b][/url] Casi OBLIGATORIO. Añade una gran cantidad de contenido expandiendo la profundidad de los personajes y los niveles de interacción con los NPC's.
 
