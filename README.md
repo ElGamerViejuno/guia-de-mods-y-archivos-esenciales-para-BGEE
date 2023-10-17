@@ -25,10 +25,10 @@ Baldur's Gate: Siege of Dragonspear (2016, Beamdog) La polémica expansión de B
 
 [Akuro's Original Casting Sounds](https://www.nexusmods.com/baldursgate/mods/29) Con este pack puedes volver a escuchar las antiguas voces durante el lanzamiento de conjuros de magos y clérigos utilizadas en la primera edición de Baldur's Gate (1998). Hay jugadores que prefieren jugar con estas voces porque aparte de ser las originales, como puedes comprobar en este [video](https://www.youtube.com/watch?v=i_7gzmJVxLc), suenan más "crudas y enérgicas"  que las actuales, que realmente provienen de BG2. Curiosamente este pack de voces funciona tanto en BGEE como en BG2EE.
 
-[url=https://drive.google.com/file/d/1QwAQHdhV3Ge7t6FptNATuoT0zQoxaECG/][b]Traducción de Siege of Dragonspear al español[/b][/url] Se trata una nueva traducción no oficial para la expansión "Siege of Dragonspear" que yo mismo he realizado respetando al máximo el estilo de las anteriores traducciones de ClanDlan. Para que esta traducción pueda funcionar bien se necesita la instalación previa de un mod llamado [url=https://github.com/Argent77/A7-DlcMerger][b]DLC Merger[/b][/url]. Recomiendo darle un vistazo a esta otra guía si queréis obtener una información mucho más detallada. https://steamcommunity.com/sharedfiles/filedetails/?id=2967898683
+[Traducción de Siege of Dragonspear al español](https://drive.google.com/file/d/1QwAQHdhV3Ge7t6FptNATuoT0zQoxaECG) Se trata una nueva traducción no oficial para la expansión "Siege of Dragonspear" que yo mismo he realizado respetando al máximo el estilo de las anteriores traducciones de ClanDlan. Para que esta traducción pueda funcionar bien se necesita la instalación previa de un mod llamado [DLC Merger](https://github.com/Argent77/A7-DlcMerger). Recomiendo darle un vistazo a esta otra guía si queréis obtener una información mucho más detallada. https://steamcommunity.com/sharedfiles/filedetails/?id=2967898683
 
 
-[video](https://www.youtube.com/watch?v=i_7gzmJVxLc)
+[DLC Merger](https://github.com/Argent77/A7-DlcMerger)
 
 [Infinity Engine Mod Installer](https://github.com/dark0dave/mod_installer)
 
