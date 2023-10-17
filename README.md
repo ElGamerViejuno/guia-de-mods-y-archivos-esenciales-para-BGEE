@@ -49,15 +49,15 @@ En esta guía solo se recomiendan mods que incluyan traducción al español, al 
 
 [BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies) Para cambiar las feas e insípidas cinemáticas de la "Enhanced edition" por las cinemáticas originales.
 
-[url=https://github.com/Gibberlings3/BG1NPC][b]BG1 NPC Project[/b][/url] Casi OBLIGATORIO. Añade una gran cantidad de contenido expandiendo la profundidad de los personajes y los niveles de interacción con los NPC's.
+[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC) Casi OBLIGATORIO. Añade una gran cantidad de contenido expandiendo la profundidad de los personajes y los niveles de interacción con los NPC's.
 
-[url=https://github.com/Gibberlings3/bg1npcmusic][b]BG1 NPC Project Music Pack[/b][/url] Totalmente opcional. Añade bandas sonoras musicales a buena parte de los dialogos del BG1 NPC Project (Desconozco si ahora no funciona correctamente porque con este mod instalado a veces pueden llegar a estar activas dos pistas músicales al mismo tiempo y puede ser desagradable).
+[BG1 NPC Project Music Pack](https://github.com/Gibberlings3/bg1npcmusic) Totalmente opcional. Añade bandas sonoras musicales a buena parte de los dialogos del BG1 NPC Project (Desconozco si ahora no funciona correctamente porque con este mod instalado a veces pueden llegar a estar activas dos pistas músicales al mismo tiempo y puede ser desagradable).
 
-[url=https://github.com/Pocket-Plane-Group/bg1ub][b]BG1 Unfinished Business[/b][/url] Diseñado para restaurar muchos de los elementos cortados, misiones, diálogos y encuentros en el lanzamiento final del juego, así como para intentar atar algunos "cabos sueltos".
+[BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub) Diseñado para restaurar muchos de los elementos cortados, misiones, diálogos y encuentros en el lanzamiento final del juego, así como para intentar atar algunos "cabos sueltos".
 
-[url=https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call][b]The Lure of the Sirine's Call[/b][/url] Un clásicazo de los mods del BG1. Añade una pequeña quest que tiene lugar en una zona costera al sur de Candelero. Esa zona sin este mod verdaderamente que se queda bastante desangelada.
+[The Lure of the Sirine's Call](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call) Un clásicazo de los mods del BG1. Añade una pequeña quest que tiene lugar en una zona costera al sur de Candelero. Esa zona sin este mod verdaderamente que se queda bastante desangelada.
 
-[url=https://github.com/Gibberlings3/BG_Quests_And_Encounters][b]BG1 Mini Quests and Encounters[/b][/url] Otro clásico pack que añade varios encuentros y misiones pequeñas que desde siempre he considerado importante tenerlo instalado en el juego.
+[BG1 Mini Quests and Encounters](https://github.com/Gibberlings3/BG_Quests_And_Encounters) Otro clásico pack que añade varios encuentros y misiones pequeñas que desde siempre he considerado importante tenerlo instalado en el juego.
 
 [url=http://europe.iegmc.net/rr/][b]Rogue Rebalancing[/b][/url] Diseñado para bardos y ladrones para que sus respectivos kits sean más cercanos al D&D de lápiz y papel. También añade objetos y algún encuentro. Funciona tanto para BGEE como BG2EE. La web de Spellhold Studios a desaparecido para descargarlo y no se puede encontrar la última versión del mod en Github. Solo se puede obtener de un repositorio de mods. El archivo original suele dar problemas con Windows Defender que lo considera un virus bloqueando la descarga o poniendo el archivo en cuarentena. Lo he reempaquetado con WinRar para descargar [url=https://drive.google.com/file/d/1rhKMUMFh-BsGXKSGxyZn1lbkWvo_V6yg/]aquí[/url] sin el instalador original para evitar estos problemas.
 
