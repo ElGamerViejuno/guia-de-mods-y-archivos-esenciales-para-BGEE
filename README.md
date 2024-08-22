@@ -27,6 +27,8 @@ Veamos con detalle los lanzamientos cronológicamente:
 
 **[Traducción de Siege of Dragonspear al español](https://drive.google.com/file/d/1mdV39VadF0cI3ZmP8FxlBtqfTx2IRNtU)** Se trata una nueva traducción no oficial para la expansión "Siege of Dragonspear" que yo mismo he realizado respetando al máximo el estilo de las anteriores traducciones de ClanDlan. Para que esta traducción pueda funcionar bien se necesita la instalación previa de un mod llamado [DLC Merger](https://github.com/Argent77/A7-DlcMerger). Recomiendo darle un vistazo a esta otra guía si queréis obtener una información mucho más detallada. https://steamcommunity.com/sharedfiles/filedetails/?id=2967898683
 
+**[EE Fixpack](https://github.com/Gibberlings3/EE_Fixpack)** Se trata de un parche experimental con una larga **[lista de arreglos](https://www.gibberlings3.net/mods/fixes/eefp/)** para todas las "Enhanced Editions" de Beamdog, osea BGEE, BG2EE, IWDEE y PsTEE. Recomiendo su descarga en este enlace de **[aquí](https://drive.google.com/file/d/1lG0j_Sj4C4HyoxcxvbhgbEKJ9TcVDoD2)**, ya que en la página de GitHub oficial, aparte de que todavía no hay ninguna release, puede ser un dolor de cabeza hacerlo funcionar con los archivos allí disponibles.
+
 ## Introducción a los mods
 Quizás muchos jugadores piensen que no vale la pena o les pueda dar pereza aprender y ponerse a meterle mods a este juego, pero es que algunos de estos mods llevan más de 20 años con innumerables actualizaciones por gente bastante experta de la comunidad internacional, incluso a veces estan involucrados antiguos desarrolladores que participaron en la creación de la saga Baldur's Gate. Muchos de estos mods se consideran al mismo nivel de calidad o incluso llegan a mejorar el contenido original. Además estos mods son especialmente importantes en el primer juego de la saga ya que mucha gente siempre suele hablar maravillas de BG2, pero luego BG1 no les agrada tanto, ya sea por la falta de interacción entre los personajes de tu grupo o un exceso de exploración a lo largo de bastantes zonas "vacias" sin apenas encuentros. Utilizando los mods aquí recomendados se consigue que BG1 alcanze un nivel de calidad similar a BG2.
 
@@ -47,11 +49,9 @@ Los mods señalados en esta guía, son para jugadores que buscan mejorar el jueg
 
 En esta guía solo se recomiendan mods que incluyan traducción al español, al menos que se trate de un mod que resulte irrelevante tenerlo en nuestro idioma porque no añada o altere textos importantes. Recordad que algunos de estos mods pueden dar falsos positivos con el antivirus de Windows al descargarlos.
 
-**[EE Fixpack](https://github.com/Gibberlings3/EE_Fixpack)** Se trata de un parche experimental con una larga **[lista de arreglos](https://www.gibberlings3.net/mods/fixes/eefp/)** para todas las "Enhanced Editions" de Beamdog, osea BGEE, BG2EE, IWDEE y PsTEE. Recomiendo su descarga en este enlace de **[aquí](https://drive.google.com/file/d/1lG0j_Sj4C4HyoxcxvbhgbEKJ9TcVDoD2)**, ya que en la página de GitHub oficial, aparte de que todavía no hay ninguna release, puede ser un dolor de cabeza hacerlo funcionar con los archivos allí disponibles.
-
 **[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Para cambiar las feas e insípidas cinemáticas de "Baldur's Gate: Enhanced edition" por las cinemáticas del "Baldur's Gate" original.
 
-**[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)** Casi OBLIGATORIO. Añade una gran cantidad de contenido expandiendo la profundidad de los personajes y los niveles de interacción con los NPC's.
+**[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)** Obligatorio si quieres expandir la profundidad y los niveles de interacción con los compañeros de aventura de una manera similar a vista en "Baldur's Gate 2".
 
 **[BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)** Diseñado para restaurar muchos de los elementos cortados, misiones, diálogos y encuentros en el lanzamiento final del juego, así como para intentar atar algunos "cabos sueltos".
 
