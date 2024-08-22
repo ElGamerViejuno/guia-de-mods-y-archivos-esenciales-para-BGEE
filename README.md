@@ -47,7 +47,7 @@ Los mods señalados en esta guía, son para jugadores que buscan mejorar el jueg
 
 En esta guía solo se recomiendan mods que incluyan traducción al español, al menos que se trate de un mod que resulte irrelevante tenerlo en nuestro idioma porque no añada o altere textos importantes. Recordad que algunos de estos mods pueden dar falsos positivos con el antivirus de Windows al descargarlos.
 
-**[EE Fixpack](https://github.com/Gibberlings3/EE_Fixpack)** Se trata de un parche experimental con una gran cantidad de arreglos para todas las "Enhanced Editions" de Beamdog, osea BGEE, BG2EE, IWDEE y PsTEE. Recomiendo se descarga **[aquí](https://drive.google.com/file/d/1lG0j_Sj4C4HyoxcxvbhgbEKJ9TcVDoD2)**, ya que en la página de GitHub oficial, aparte de que todavía no hay ninguna release, puede ser un dolor de cabeza hacerlo funcionar con los archivos allí disponibles.
+**[EE Fixpack](https://github.com/Gibberlings3/EE_Fixpack)** Se trata de un parche experimental con una larga **[lista de arreglos](https://www.gibberlings3.net/mods/fixes/eefp/)** para todas las "Enhanced Editions" de Beamdog, osea BGEE, BG2EE, IWDEE y PsTEE. Recomiendo su descarga en este enlace de **[aquí](https://drive.google.com/file/d/1lG0j_Sj4C4HyoxcxvbhgbEKJ9TcVDoD2)**, ya que en la página de GitHub oficial, aparte de que todavía no hay ninguna release, puede ser un dolor de cabeza hacerlo funcionar con los archivos allí disponibles.
 
 **[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Para cambiar las feas e insípidas cinemáticas de "Baldur's Gate: Enhanced edition" por las cinemáticas del "Baldur's Gate" original.
 
