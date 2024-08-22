@@ -47,11 +47,11 @@ Los mods señalados en esta guía, son para jugadores que buscan mejorar el jueg
 
 En esta guía solo se recomiendan mods que incluyan traducción al español, al menos que se trate de un mod que resulte irrelevante tenerlo en nuestro idioma porque no añada o altere textos importantes. Recordad que algunos de estos mods pueden dar falsos positivos con el antivirus de Windows al descargarlos.
 
-**[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Para cambiar las feas e insípidas cinemáticas de la "Enhanced edition" por las cinemáticas originales.
+**[EE Fixpack](https://github.com/Gibberlings3/EE_Fixpack)** Se trata de un parche experimental con una gran cantidad de arreglos para todas las "Enhanced Editions" de Beamdog, osea BGEE, BG2EE, IWDEE y PsTEE. Recomiendo se descarga **[aquí](https://drive.google.com/file/d/1lG0j_Sj4C4HyoxcxvbhgbEKJ9TcVDoD2)**, ya que en la página de GitHub oficial, aparte de que todavía no hay ninguna release, puede ser un dolor de cabeza hacerlo funcionar con los archivos allí disponibles.
+
+**[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Para cambiar las feas e insípidas cinemáticas de "Baldur's Gate: Enhanced edition" por las cinemáticas del "Baldur's Gate" original.
 
 **[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)** Casi OBLIGATORIO. Añade una gran cantidad de contenido expandiendo la profundidad de los personajes y los niveles de interacción con los NPC's.
-
-**[BG1 NPC Project Music Pack](https://github.com/Gibberlings3/bg1npcmusic)** Totalmente opcional. Añade bandas sonoras musicales a buena parte de los dialogos del BG1 NPC Project (Desconozco si ahora no funciona correctamente porque con este mod instalado a veces pueden llegar a estar activas dos pistas músicales al mismo tiempo y puede ser desagradable).
 
 **[BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)** Diseñado para restaurar muchos de los elementos cortados, misiones, diálogos y encuentros en el lanzamiento final del juego, así como para intentar atar algunos "cabos sueltos".
 
