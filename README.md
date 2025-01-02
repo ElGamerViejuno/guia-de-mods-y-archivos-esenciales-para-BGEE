@@ -47,9 +47,9 @@ Los mods señalados en esta guía, son para jugadores que buscan mejorar el jueg
 
 En esta guía solo se recomiendan mods que incluyan traducción al español, al menos que se trate de un mod que resulte irrelevante tenerlo en nuestro idioma porque no añada o altere textos importantes. Recordad que algunos de estos mods pueden dar falsos positivos con el antivirus de Windows al descargarlos.
 
-**[Infinity Sounds](https://github.com/Spellhold-Studios/Infinity-Sounds)** Restaura gran cantidad de voces y efectos de sonido que "desaparecieron" en las "Enhanced Editions", y lo más importante, restaura las antiguas voces durante el lanzamiento de conjuros de magos y clérigos utilizadas en la primera edición de Baldur's Gate (1998). Hay jugadores que prefieren jugar con estas voces porque aparte de ser las originales, como puedes comprobar en este [video](https://www.youtube.com/watch?v=i_7gzmJVxLc), suenan más "crudas y enérgicas" que las actuales, que realmente provienen de BG2. Este mod funciona tanto en BGEE como en BG2EE. Algunos de sus componentes son para la versión en inglés y no deberían ser instalados si vas a jugar en español.
+**[Infinity Sounds](https://github.com/Spellhold-Studios/Infinity-Sounds)** Restaura gran cantidad de voces y efectos de sonido que "desaparecieron" en las "Enhanced Editions", y lo más importante, restaura las antiguas voces durante el lanzamiento de conjuros de magos y clérigos utilizadas en la primera edición de Baldur's Gate (1998). Hay jugadores que prefieren jugar con estas voces porque aparte de ser las originales, como puedes comprobar en este [video](https://www.youtube.com/watch?v=i_7gzmJVxLc), suenan más "crudas y enérgicas" que las actuales, que realmente provienen de BG2. Funciona tanto para BGEE como BG2EE. Algunos de sus componentes son para la versión en inglés y no deberían ser instalados si vas a jugar en español.
 
-**[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Para cambiar las feas e insípidas cinemáticas de "Baldur's Gate: Enhanced edition" por las cinemáticas del "Baldur's Gate" original.
+**[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Cambia las feísimas e insípidas cinemáticas de "Baldur's Gate: Enhanced edition" por las cinemáticas del "Baldur's Gate" original.
 
 **[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)** Obligatorio si quieres expandir la profundidad y la interacción con los compañeros de aventura de una manera similar a lo que podemos encontrar en "Baldur's Gate 2".
 
@@ -65,7 +65,7 @@ En esta guía solo se recomiendan mods que incluyan traducción al español, al 
 
 **[The Tweaks Anthology](https://github.com/Gibberlings3/Tweaks-Anthology)** Algunos truquillos y cambios cosméticos para instalar al gusto de cada uno. Funciona tanto para BGEE como BG2EE.
 
-**[Sword Coast Stratagems](https://github.com/Gibberlings3/SwordCoastStratagems)** Imprescindible para muchos jugadores veteranos, ideal para los que buscan nuevos retos, con este mod se mejora la IA de los enemigos y la dificultad del juego. Funciona tanto para BGEE como BG2EE. También puedes disponer de una versión no oficial del mod con español incluido [aquí](https://drive.google.com/file/d/1gH42XMYh0OeT5tntX3SQkAUVy0cZ1AN-).
+**[Sword Coast Stratagems](https://github.com/Gibberlings3/SwordCoastStratagems)** Imprescindible para muchos jugadores veteranos, ideal para los que buscan nuevos retos, con este mod se mejora la IA de los enemigos y la dificultad del juego. Funciona tanto para BGEE como BG2EE.
 
 **[EEex](https://github.com/Bubb13/EEex)** Aumenta las posibilidades de modding en las versiones "Enhanced Edition". Por si solo este mod no realiza cambios, simplemente permite que otros mods puedan funcionar. Su instalador ofrece componentes adicionales que considero grandes mejoras, como poder ver los hechizos que afectan a las criaturas y también unas barras de colores que aparecen a la izquierda de los retratos de tus personajes que van indicando los tiempos para el lanzamiento de hechizos, uso de objetos o habilidades.
 
