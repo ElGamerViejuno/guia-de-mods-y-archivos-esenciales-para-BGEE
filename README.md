@@ -51,13 +51,13 @@ En esta guía solo se recomiendan mods que incluyan traducción al español, al 
 
 **[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Para cambiar las feas e insípidas cinemáticas de "Baldur's Gate: Enhanced edition" por las cinemáticas del "Baldur's Gate" original.
 
-**[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)** Obligatorio si quieres expandir la profundidad y los niveles de interacción con los compañeros de aventura de una manera similar a vista en "Baldur's Gate 2".
+**[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)** Obligatorio si quieres expandir la profundidad y la interacción con los compañeros de aventura de una manera similar a lo que podemos encontrar en "Baldur's Gate 2".
 
 **[BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)** Diseñado para restaurar muchos de los elementos cortados, misiones, diálogos y encuentros en el lanzamiento final del juego, así como para intentar atar algunos "cabos sueltos".
 
 **[The Lure of the Sirine's Call](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call)** Un clásicazo de los mods del BG1. Añade una pequeña quest que tiene lugar en una zona costera al sur de Candelero. Esa zona sin este mod verdaderamente que se queda bastante desangelada.
 
-**[BG1 Mini Quests and Encounters](https://github.com/Gibberlings3/BG_Quests_And_Encounters)** Otro clásico pack que añade varios encuentros y misiones pequeñas que desde siempre he considerado importante tenerlo instalado en el juego.
+**[BG1 Mini Quests and Encounters](https://github.com/Gibberlings3/BG_Quests_And_Encounters)** Otro clásico pack que añade varios encuentros y misiones pequeñas. Algunos de sus componentes son de las primeras modificaciones que recuerdo aver jugado en BG1 hace ya varias décadas.
 
 **[Rogue Rebalancing](http://europe.iegmc.net/rr/)** Diseñado para bardos y ladrones para que sus respectivos kits sean más cercanos al D&D de lápiz y papel. También añade objetos y algún encuentro. Funciona tanto para BGEE como BG2EE. La web de Spellhold Studios a desaparecido para descargarlo y no se puede encontrar la última versión del mod en Github. Solo se puede obtener de un repositorio de mods. El archivo original suele dar problemas con Windows Defender que lo considera un virus bloqueando la descarga o poniendo el archivo en cuarentena. Lo he reempaquetado con WinRar para descargar [aquí](https://drive.google.com/file/d/1rhKMUMFh-BsGXKSGxyZn1lbkWvo_V6yg) sin el instalador original para evitar estos problemas.
 
