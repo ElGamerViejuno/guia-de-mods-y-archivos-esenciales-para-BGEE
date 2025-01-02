@@ -65,7 +65,7 @@ En esta guía intento recomendar mods que incluyan traducción al español, al m
 
 **[The Tweaks Anthology](https://github.com/Gibberlings3/Tweaks-Anthology)** Algunos truquillos y cambios cosméticos para instalar al gusto de cada uno. Funciona tanto para BGEE como BG2EE.
 
-**[Sword Coast Stratagems](https://github.com/Gibberlings3/SwordCoastStratagems)** Imprescindible para muchos jugadores veteranos, ideal para los que buscan nuevos retos, con este mod se mejora la IA de los enemigos y la dificultad del juego. Funciona tanto para BGEE como BG2EE.
+**[Sword Coast Stratagems](https://github.com/Gibberlings3/SwordCoastStratagems)** Imprescindible para los jugadores más veteranos, ideal para los que buscan nuevos retos, con este mod se mejora la IA de los enemigos y la dificultad del juego. Funciona tanto para BGEE como BG2EE.
 
 **[EEex](https://github.com/Bubb13/EEex)** Aumenta las posibilidades de modding en las versiones "Enhanced Edition". Por si solo este mod no realiza cambios, simplemente permite que otros mods puedan funcionar. Su instalador ofrece componentes adicionales que considero grandes mejoras, como poder ver los hechizos que afectan a las criaturas y también unas barras de colores que aparecen a la izquierda de los retratos de tus personajes que van indicando los tiempos para el lanzamiento de hechizos, uso de objetos o habilidades.
 
