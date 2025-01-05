@@ -49,7 +49,7 @@ En esta guía intento recomendar mods que incluyan traducción al español, al m
 
 **[Infinity Sounds](https://github.com/Spellhold-Studios/Infinity-Sounds)** Restaura voces y efectos de sonido que "desaparecieron" en la "Enhanced Edition". Especialmente relevantes las antiguas voces utilizadas en los lanzamientos de conjuros de magos y clérigos, originales de la primera edición de Baldur's Gate (1998). Algunos jugadores prefieren jugar con estas voces porque aparte de ser las originales, como puedes comprobar en este [video](https://www.youtube.com/watch?v=i_7gzmJVxLc), suenan más "oscuras y enérgicas" que las actuales, que realmente provienen de BG2. Funciona tanto para BGEE como BG2EE.
 
-**[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Cambia las feísimas e insípidas cinemáticas de "Baldur's Gate: Enhanced edition" por las cinemáticas del "Baldur's Gate" original.
+**[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Cambia las feísimas e insípidas cinemáticas de "Baldur's Gate: Enhanced Edition" por las cinemáticas del "Baldur's Gate" original.
 
 **[BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)** Obligatorio si quieres expandir la profundidad y la interacción con los compañeros de aventura de una manera similar a lo que podemos encontrar en "Baldur's Gate 2".
 
