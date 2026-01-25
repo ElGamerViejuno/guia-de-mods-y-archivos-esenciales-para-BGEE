@@ -57,7 +57,7 @@ En esta guía intento recomendar mods que incluyan traducción al español, al m
 
 **[The Lure of the Sirine's Call](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call)** Un clásicazo de los mods del BG1. Añade una pequeña quest que tiene lugar en una zona costera al sur de Candelero. Esa zona sin este mod verdaderamente que se queda bastante desangelada.
 
-**[BG1 Mini Quests and Encounters](https://github.com/Gibberlings3/BG_Quests_And_Encounters)** Otro clásico pack que añade varios encuentros y misiones pequeñas. Algunos de sus componentes son de las primeras modificaciones que recuerdo aver jugado en BG1 hace ya varias décadas.
+**[BG1 Mini Quests and Encounters](https://github.com/Gibberlings3/BG_Quests_And_Encounters)** Otro clásico pack que añade varios encuentros y misiones pequeñas. Algunos de sus componentes son de las primeras modificaciones que recuerdo haber jugado en BG1 hace ya varias décadas.
 
 **[Rogue Rebalancing](http://europe.iegmc.net/rr/)** Diseñado para bardos y ladrones para que sus respectivos kits sean más cercanos al D&D de lápiz y papel. También añade objetos y algún encuentro. Funciona tanto para BGEE como BG2EE. La web de Spellhold Studios a desaparecido para descargarlo y no se puede encontrar la última versión del mod en Github. Solo se puede obtener de un repositorio de mods. El archivo original suele dar problemas con Windows Defender que lo considera un virus bloqueando la descarga o poniendo el archivo en cuarentena. Lo he reempaquetado con WinRar para descargar [aquí](https://drive.google.com/file/d/1rhKMUMFh-BsGXKSGxyZn1lbkWvo_V6yg) sin el instalador original para evitar estos problemas.
 
