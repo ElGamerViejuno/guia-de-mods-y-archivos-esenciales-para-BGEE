@@ -47,6 +47,8 @@ Los mods señalados en esta guía, son para jugadores que buscan mejorar el jueg
 
 En esta guía intento recomendar mods que incluyan traducción al español, al menos que se trate de un mod que resulte irrelevante tenerlo en nuestro idioma porque no añada o altere textos en nuestro idioma. Recordad que algunos de estos mods pueden dar falsos positivos con el antivirus de Windows al descargarlos.
 
+**[Baldur's Gate Graphical Overhaul](https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul)** Los mejores arreglos visuales del juego desde su lanzamiento. Restablece las áreas nocturnas extendidas que faltan en todas las áreas principales. Ahora, cuando abres las puertas por la noche, se muestra la luz del interior del edificio. Los edificios tienen ventanas que están iluminadas. Muchos mapas nocturnos tienen su propio mapa de iluminación y los interiores están equipados con velas, antorchas y luces. Además corrige multitud de pequeños errores gráficos. Funciona tanto para BGEE como BG2EE.
+
 **[Infinity Sounds](https://github.com/Spellhold-Studios/Infinity-Sounds)** Restaura voces y efectos de sonido que "desaparecieron" en la "Enhanced Edition". Especialmente relevante las antiguas voces utilizadas en los lanzamientos de conjuros de magos y clérigos, originales de la primera edición de Baldur's Gate (1998). Algunos jugadores prefieren jugar con estas voces porque aparte de ser las originales, como puedes comprobar en este [video](https://www.youtube.com/watch?v=i_7gzmJVxLc), suenan más "oscuras y enérgicas" que las actuales, que realmente provienen de BG2. Funciona tanto para BGEE como BG2EE.
 
 **[BGEE Classic Movies](https://github.com/Sampsca/BGEE-Classic-Movies)** Cambia las feísimas e insípidas cinemáticas de "Baldur's Gate: Enhanced Edition" por las cinemáticas del "Baldur's Gate" original.
@@ -66,8 +68,6 @@ En esta guía intento recomendar mods que incluyan traducción al español, al m
 **[The Tweaks Anthology](https://github.com/Gibberlings3/Tweaks-Anthology)** Algunos truquillos y cambios cosméticos para instalar al gusto de cada uno. Funciona tanto para BGEE como BG2EE.
 
 **[Sword Coast Stratagems](https://github.com/Gibberlings3/SwordCoastStratagems)** Imprescindible para los jugadores más veteranos, ideal para los que buscan nuevos retos, con este mod se mejora la IA de los enemigos y la dificultad del juego. Funciona tanto para BGEE como BG2EE.
-
-**[Baldur's Gate Graphical Overhaul](https://github.com/SpellholdStudios/BGGOEET)** Los mejores arreglos visuales del juego desde su lanzamiento. Restablece las áreas nocturnas extendidas que faltan en todas las áreas principales. Ahora, cuando abres las puertas por la noche, se muestra la luz del interior del edificio. Los edificios tienen ventanas que están iluminadas. Muchos mapas nocturnos tienen su propio mapa de iluminación y los interiores están equipados con velas, antorchas y luces. Además corrige multitud de pequeños errores gráficos. Funciona tanto para BGEE como BG2EE.
 
 **[EEex](https://github.com/Bubb13/EEex)** Aumenta las posibilidades de modding en las versiones "Enhanced Edition". Por si solo este mod no realiza cambios, simplemente permite que otros mods puedan funcionar. Su instalador ofrece componentes adicionales que considero grandes mejoras, como poder ver los hechizos que afectan a las criaturas y también unas barras de colores que aparecen a la izquierda de los retratos de tus personajes que van indicando los tiempos para el lanzamiento de hechizos, uso de objetos o habilidades.
 
