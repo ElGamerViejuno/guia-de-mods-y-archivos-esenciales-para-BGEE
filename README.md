@@ -82,7 +82,7 @@ Debes saber que por defecto, los hechizos de area en el juego no muestran ningun
 
 Si utilizas el mod **EEex** y quieres ejecutar el juego junto a Steam para obtener tus logros y demás estadísticas en tu cuenta, debes ir a la carpeta raíz donde tienes instalado el  juego, renombra **InfinityLoader.exe** a **Baldur.exe**, luego renombra **Baldur.exe** a **BaldurReal.exe**, abre **InfinityLoader.ini** con tu editor de textos, cambia **Baldur.exe** en **ExeNames** a **BaldurReal.exe** y añade **BaldurReal.exe:Baldur.exe** en **ExeSwitchAlias**. Ahora podrás ejecutar el juego con **EEex** como si fuera el ejecutable original de Steam.
 
-Si necesitáis alguna guía tipo "walkthrough" podéis hecharle un vistazo a las guías de **[Isla Negra](http://islanegra.clandlan.net/)** que a pesar de ser muy antiguas son bastante completas (Pero no incluyen el contenido extra de las "Enhanced edition"). Ya no existe la página de ClanDlan, pero puedes acceder a esta guía en usando la página de Wayback Machine.
+Si necesitáis alguna guía tipo "walkthrough" podéis hecharle un vistazo a las guías de **[Isla Negra (Wayback Machine)](https://web.archive.org/web/20200316063309/http://islanegra.clandlan.net/)** que a pesar de ser muy antiguas son bastante completas (Pero no incluyen el contenido extra de las "Enhanced edition"). Ya no existe la página de ClanDlan, pero puedes acceder a esta guía en usando la página de Wayback Machine.
 
 Por cierto, también he creado otra guía similar sobre la secuela Baldur's Gate 2: Enhanced Edition
 https://github.com/ElGamerViejuno/guia-de-mods-y-archivos-esenciales-para-BG2EE
