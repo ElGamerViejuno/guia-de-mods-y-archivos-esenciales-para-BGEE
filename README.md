@@ -87,4 +87,4 @@ Si necesitáis alguna guía tipo "walkthrough" podéis hecharle un vistazo a las
 Por cierto, también he creado otra guía similar sobre la secuela Baldur's Gate 2: Enhanced Edition
 https://github.com/ElGamerViejuno/guia-de-mods-y-archivos-esenciales-para-BG2EE
 
-Si buscas más información y conocer a otros fans del juego puedes unirte la comunidad de Discord **["Baldur's Gate Hispano"](https://discord.gg/5r4y4PZ)** o si también quieres consultarme cualquier cosa, a menudo me podrás encontrar en mi canal de **[Twitch](https://www.twitch.tv/elgamerviejuno)** dándole al vicio en directo.
+Si buscas más información y conocer a otros fans del juego puedes unirte la comunidad de Discord de **[Baldur's Gate Hispano](https://discord.gg/5r4y4PZ)** o si también quieres consultarme cualquier cosa, a menudo me podrás encontrar en mi canal de **[Twitch](https://www.twitch.tv/elgamerviejuno)** dándole al vicio en directo.
